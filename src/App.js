@@ -5,6 +5,7 @@ import History from './history';
 import Vision from './vision';
 import Management from './management';
 import Gallery from './gallery';
+import Doctor from './doctors';
 import {
   BrowserRouter as Router,
   Routes,
@@ -26,6 +27,7 @@ function App() {
           <Route path ="/vision" element = {<Vision/>}/>
           <Route path ="/management" element = {<Management/>}/>
           <Route path ="/gallery" element = {<Gallery/>}/>
+          <Route path ="/doctor" element = {<Doctor/>}/>
           <Route path="*" element={<Navigate to="/" />}/>
         </Routes>
       </Router>

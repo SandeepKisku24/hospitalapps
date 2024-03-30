@@ -1,0 +1,41 @@
+.doctorsOuter{
+    width: 100%;
+    height: 600px;
+    background-color: #4285F4;
+
+}
+.doctors{
+    width: 90%;
+    height: 600px;
+    border-radius: 100px;
+    background-color: #fff;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.doc{
+    height: 200px;
+    width: 250px;
+    margin: auto;
+    padding: 3% 0 3% 0;
+    color: #4285F4;
+}
+.docImage{
+    width: 200px;
+    height: 180px;
+    margin: auto;
+    padding: 2% 0 2% 0;
+    
+}
+.docImage img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.docName{
+    text-align: center;
+    font-weight: bold;
+}
+.docDegree{
+    text-align: center;
+}

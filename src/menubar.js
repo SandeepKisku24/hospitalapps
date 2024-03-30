@@ -35,7 +35,7 @@ const Menu = ()=>{
                         <a href="#">DENTAL DEPARTMENT</a>
                         <a href="#">OPD</a>
                         <a href="#">IPD</a>
-                        <a href="#">DOCTORS</a>
+                        <Link to ="doctor">Doctors</Link>
                     </div>:<></>}
                 </li>
                 <li><a href="#">SERVICES</a></li>
