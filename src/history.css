@@ -1,0 +1,29 @@
+.history{
+    text-align: center;
+    height: 500px;
+    background-color: #fff;
+    color: #4285F4;
+}
+.historyContent{
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    /* fle */
+}
+.historyWriting{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+.historyImage{
+    height: 300px;
+    width: 450px;
+    margin: auto;
+}
+.historyImage img{
+    height: 100%;
+    width: 100%;
+}
