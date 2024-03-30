@@ -15,6 +15,7 @@ const facility = ()=>{
                 <FacilityBox ficon = "clinical_notes" faciname="24 hrs Resident Medical Officers"/>
                 <FacilityBox ficon = "wheelchair_pickup" faciname="Home Health Care"/>
                 <FacilityBox ficon = "ecg" faciname="ECG and other facilities"/>
+                
             </div>
         </div>
     )
